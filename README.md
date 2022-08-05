@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I’m Saswat 👋
+- 👀 I’m interested in ... everything (U have to keep up with STEM 😬)
+- 🌱 I’m currently learning ... AWS and Cloud-Computing
+- 👀 Recently picked interest in ... Blockchain
+# Skills 💼
+- Backend-Dev -> Node, Python, C/C++
+- WebDev -> HTML/CSS/JS
+- Cloud-Computing -> AWS, GCP
 
 <!--
 **ThisIsSaswat/ThisIsSaswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 -->
+
+
+
+
